@@ -11,4 +11,6 @@ pip install pygame
 Note that it's not complete yet.. Be free by helping me to continue it.
 
 At the moment, we can walk free. Monsters and Coins will be added soon
+
+######ScreenShot
 ![ScreenShot](https://github.com/devmazzotti/PacMan-With-Pygame/blob/master/screenshot.jpeg)
